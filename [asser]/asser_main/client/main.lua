@@ -1,3 +1,4 @@
+-- Clear area of cops
 Citizen.CreateThread(function()
 	while true do
 	Citizen.Wait(0)
