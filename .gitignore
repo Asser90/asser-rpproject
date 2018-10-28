@@ -1,8 +1,8 @@
-/[gamemodes]
-/[gameplay]
-/[managers]
-/[system]
-/[test]
+!/[gamemodes]
+!/[gameplay]
+!/[managers]
+!/[system]
+!/[test]
 /es_admin2
 /esplugin_mysql
 /essentialmode
